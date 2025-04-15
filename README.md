@@ -13,6 +13,7 @@ Below are some relevant Key Performance Indicators (KPIs) and metrics in the dat
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
   
-![Call center dashboard picture](https://github.com/user-attachments/assets/67de1de3-41a7-480d-b641-b6e1f48be1cb)
+![image](https://github.com/user-attachments/assets/12e13b38-79d8-4d43-a366-848ef8f745b0)
+
 
   
